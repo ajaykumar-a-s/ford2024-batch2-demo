@@ -40,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706864554183</updated>
-      <workItem from="1706864555373" duration="1030000" />
+      <workItem from="1706864555373" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="Version Configuration">
       <option name="closed" value="true" />
@@ -69,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706865570936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version Configuration">
+      <option name="closed" value="true" />
+      <created>1706865671889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706865671889</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +98,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version Configuration" />
     <option name="LAST_COMMIT_MESSAGE" value="Version Configuration" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
